@@ -1,8 +1,8 @@
 [
     {
-        "homeTeam": "US Lecce",
-        "awayTeam": "AS Roma",
-        "league": "Serie A",
+        "homeTeam": "Portsmouth FC",
+        "awayTeam": "Derby County FC",
+        "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -11,9 +11,9 @@
         ]
     },
     {
-        "homeTeam": "CA Osasuna",
-        "awayTeam": "Getafe CF",
-        "league": "Primera Division",
+        "homeTeam": "Preston North End FC",
+        "awayTeam": "Bristol City FC",
+        "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -22,9 +22,9 @@
         ]
     },
     {
-        "homeTeam": "Atalanta BC",
-        "awayTeam": "Bologna FC 1909",
-        "league": "Serie A",
+        "homeTeam": "Swansea City AFC",
+        "awayTeam": "Watford FC",
+        "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -33,9 +33,9 @@
         ]
     },
     {
-        "homeTeam": "Aston Villa FC",
-        "awayTeam": "Arsenal FC",
-        "league": "Premier League",
+        "homeTeam": "Lincoln City FC",
+        "awayTeam": "Blackburn Rovers FC",
+        "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -44,9 +44,9 @@
         ]
     },
     {
-        "homeTeam": "Sport Lisboa e Benfica",
-        "awayTeam": "GD Estoril Praia",
-        "league": "Primeira Liga",
+        "homeTeam": "West Ham United FC",
+        "awayTeam": "Wolverhampton Wanderers FC",
+        "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -55,9 +55,9 @@
         ]
     },
     {
-        "homeTeam": "Sporting Clube de Braga",
-        "awayTeam": "Vitória SC",
-        "league": "Primeira Liga",
+        "homeTeam": "Sheffield United FC",
+        "awayTeam": "Bolton Wanderers FC",
+        "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -66,9 +66,9 @@
         ]
     },
     {
-        "homeTeam": "FC Barcelona",
-        "awayTeam": "Rayo Vallecano de Madrid",
-        "league": "Primera Division",
+        "homeTeam": "Stoke City FC",
+        "awayTeam": "Norwich City FC",
+        "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -77,9 +77,9 @@
         ]
     },
     {
-        "homeTeam": "Clube do Remo",
-        "awayTeam": "Coritiba FBC",
-        "league": "Campeonato Brasileiro Série A",
+        "homeTeam": "Birmingham City FC",
+        "awayTeam": "Southampton FC",
+        "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
