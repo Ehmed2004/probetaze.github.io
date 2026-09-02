@@ -1,7 +1,7 @@
 [
     {
-        "homeTeam": "Portsmouth FC",
-        "awayTeam": "Derby County FC",
+        "homeTeam": "West Bromwich Albion FC",
+        "awayTeam": "Charlton Athletic FC",
         "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -11,8 +11,8 @@
         ]
     },
     {
-        "homeTeam": "Preston North End FC",
-        "awayTeam": "Bristol City FC",
+        "homeTeam": "Millwall FC",
+        "awayTeam": "Wrexham AFC",
         "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -22,8 +22,8 @@
         ]
     },
     {
-        "homeTeam": "Swansea City AFC",
-        "awayTeam": "Watford FC",
+        "homeTeam": "Queens Park Rangers FC",
+        "awayTeam": "Cardiff City FC",
         "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -33,8 +33,8 @@
         ]
     },
     {
-        "homeTeam": "Lincoln City FC",
-        "awayTeam": "Blackburn Rovers FC",
+        "homeTeam": "Burnley FC",
+        "awayTeam": "Middlesbrough FC",
         "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -44,42 +44,9 @@
         ]
     },
     {
-        "homeTeam": "West Ham United FC",
-        "awayTeam": "Wolverhampton Wanderers FC",
-        "league": "Championship",
-        "scores": "2:1 / 3:1 / 1:1",
-        "predictions": [
-            "Ev 1.5 Üst",
-            "Qol-Qol Bəli",
-            "2.5 Üst"
-        ]
-    },
-    {
-        "homeTeam": "Sheffield United FC",
-        "awayTeam": "Bolton Wanderers FC",
-        "league": "Championship",
-        "scores": "2:1 / 3:1 / 1:1",
-        "predictions": [
-            "Ev 1.5 Üst",
-            "Qol-Qol Bəli",
-            "2.5 Üst"
-        ]
-    },
-    {
-        "homeTeam": "Stoke City FC",
-        "awayTeam": "Norwich City FC",
-        "league": "Championship",
-        "scores": "2:1 / 3:1 / 1:1",
-        "predictions": [
-            "Ev 1.5 Üst",
-            "Qol-Qol Bəli",
-            "2.5 Üst"
-        ]
-    },
-    {
-        "homeTeam": "Birmingham City FC",
-        "awayTeam": "Southampton FC",
-        "league": "Championship",
+        "homeTeam": "CR Flamengo",
+        "awayTeam": "Mirassol FC",
+        "league": "Campeonato Brasileiro Série A",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
