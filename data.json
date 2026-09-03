@@ -1,8 +1,8 @@
 [
     {
-        "homeTeam": "West Bromwich Albion FC",
-        "awayTeam": "Charlton Athletic FC",
-        "league": "Championship",
+        "homeTeam": "Toulouse FC",
+        "awayTeam": "Lille OSC",
+        "league": "Ligue 1",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -11,42 +11,9 @@
         ]
     },
     {
-        "homeTeam": "Millwall FC",
-        "awayTeam": "Wrexham AFC",
-        "league": "Championship",
-        "scores": "2:1 / 3:1 / 1:1",
-        "predictions": [
-            "Ev 1.5 Üst",
-            "Qol-Qol Bəli",
-            "2.5 Üst"
-        ]
-    },
-    {
-        "homeTeam": "Queens Park Rangers FC",
-        "awayTeam": "Cardiff City FC",
-        "league": "Championship",
-        "scores": "2:1 / 3:1 / 1:1",
-        "predictions": [
-            "Ev 1.5 Üst",
-            "Qol-Qol Bəli",
-            "2.5 Üst"
-        ]
-    },
-    {
-        "homeTeam": "Burnley FC",
-        "awayTeam": "Middlesbrough FC",
-        "league": "Championship",
-        "scores": "2:1 / 3:1 / 1:1",
-        "predictions": [
-            "Ev 1.5 Üst",
-            "Qol-Qol Bəli",
-            "2.5 Üst"
-        ]
-    },
-    {
-        "homeTeam": "CR Flamengo",
-        "awayTeam": "Mirassol FC",
-        "league": "Campeonato Brasileiro Série A",
+        "homeTeam": "Real Sociedad de Fútbol",
+        "awayTeam": "RC Celta de Vigo",
+        "league": "Primera Division",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
