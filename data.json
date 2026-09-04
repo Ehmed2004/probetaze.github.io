@@ -1,7 +1,7 @@
 [
     {
-        "homeTeam": "Toulouse FC",
-        "awayTeam": "Lille OSC",
+        "homeTeam": "Olympique Lyonnais",
+        "awayTeam": "AJ Auxerre",
         "league": "Ligue 1",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -11,9 +11,75 @@
         ]
     },
     {
-        "homeTeam": "Real Sociedad de Fútbol",
-        "awayTeam": "RC Celta de Vigo",
+        "homeTeam": "Sparta Rotterdam",
+        "awayTeam": "PEC Zwolle",
+        "league": "Eredivisie",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "VfB Stuttgart",
+        "awayTeam": "1. FC Köln",
+        "league": "Bundesliga",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "Genoa CFC",
+        "awayTeam": "Como 1907",
+        "league": "Serie A",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "Real Betis Balompié",
+        "awayTeam": "Real Madrid CF",
         "league": "Primera Division",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "Ipswich Town FC",
+        "awayTeam": "Liverpool FC",
+        "league": "Premier League",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "Paris Saint-Germain FC",
+        "awayTeam": "AS Monaco FC",
+        "league": "Ligue 1",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "FC Porto",
+        "awayTeam": "Moreirense FC",
+        "league": "Primeira Liga",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
