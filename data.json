@@ -1,7 +1,7 @@
 [
     {
-        "homeTeam": "Estudiantes de La Plata",
-        "awayTeam": "SC Corinthians Paulista",
+        "homeTeam": "CAR Independiente del Valle",
+        "awayTeam": "CR Flamengo",
         "league": "Copa Libertadores",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -11,9 +11,9 @@
         ]
     },
     {
-        "homeTeam": "Fenerbahçe SK",
-        "awayTeam": "AS Roma",
-        "league": "UEFA Champions League",
+        "homeTeam": "AZ",
+        "awayTeam": "Willem II Tilburg",
+        "league": "Eredivisie",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -22,9 +22,9 @@
         ]
     },
     {
-        "homeTeam": "PSV",
-        "awayTeam": "FK Shakhtar Donetsk",
-        "league": "UEFA Champions League",
+        "homeTeam": "1. FC Union Berlin",
+        "awayTeam": "FC Schalke 04",
+        "league": "Bundesliga",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -33,9 +33,9 @@
         ]
     },
     {
-        "homeTeam": "FC Bayern München",
-        "awayTeam": "FK Bodø/Glimt",
-        "league": "UEFA Champions League",
+        "homeTeam": "Venezia FC",
+        "awayTeam": "ACF Fiorentina",
+        "league": "Serie A",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -44,9 +44,9 @@
         ]
     },
     {
-        "homeTeam": "Como 1907",
-        "awayTeam": "RB Leipzig",
-        "league": "UEFA Champions League",
+        "homeTeam": "Stade Rennais FC 1901",
+        "awayTeam": "Olympique de Marseille",
+        "league": "Ligue 1",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -55,9 +55,9 @@
         ]
     },
     {
-        "homeTeam": "SK Slavia Praha",
-        "awayTeam": "Racing Club de Lens",
-        "league": "UEFA Champions League",
+        "homeTeam": "Sevilla FC",
+        "awayTeam": "Valencia CF",
+        "league": "Primera Division",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -66,9 +66,9 @@
         ]
     },
     {
-        "homeTeam": "Manchester United FC",
-        "awayTeam": "Sabah FK",
-        "league": "UEFA Champions League",
+        "homeTeam": "West Ham United FC",
+        "awayTeam": "Wrexham AFC",
+        "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -77,9 +77,9 @@
         ]
     },
     {
-        "homeTeam": "CF Estrela da Amadora",
-        "awayTeam": "Sporting Clube de Braga",
-        "league": "Primeira Liga",
+        "homeTeam": "Coritiba FBC",
+        "awayTeam": "CA Paranaense",
+        "league": "Campeonato Brasileiro Série A",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
