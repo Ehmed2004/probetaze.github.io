@@ -1,51 +1,7 @@
 [
     {
-        "homeTeam": "Torino FC",
-        "awayTeam": "AS Roma",
-        "league": "Serie A",
-        "scores": "2:1 / 3:1 / 1:1",
-        "predictions": [
-            "Ev 1.5 Üst",
-            "Qol-Qol Bəli",
-            "2.5 Üst"
-        ]
-    },
-    {
-        "homeTeam": "Como 1907",
-        "awayTeam": "Parma Calcio 1913",
-        "league": "Serie A",
-        "scores": "2:1 / 3:1 / 1:1",
-        "predictions": [
-            "Ev 1.5 Üst",
-            "Qol-Qol Bəli",
-            "2.5 Üst"
-        ]
-    },
-    {
-        "homeTeam": "Rio Ave FC",
-        "awayTeam": "CF Estrela da Amadora",
-        "league": "Primeira Liga",
-        "scores": "2:1 / 3:1 / 1:1",
-        "predictions": [
-            "Ev 1.5 Üst",
-            "Qol-Qol Bəli",
-            "2.5 Üst"
-        ]
-    },
-    {
-        "homeTeam": "FC Internazionale Milano",
-        "awayTeam": "Udinese Calcio",
-        "league": "Serie A",
-        "scores": "2:1 / 3:1 / 1:1",
-        "predictions": [
-            "Ev 1.5 Üst",
-            "Qol-Qol Bəli",
-            "2.5 Üst"
-        ]
-    },
-    {
-        "homeTeam": "Villarreal CF",
-        "awayTeam": "Real Betis Balompié",
+        "homeTeam": "Rayo Vallecano de Madrid",
+        "awayTeam": "RCD Espanyol de Barcelona",
         "league": "Primera Division",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -55,9 +11,9 @@
         ]
     },
     {
-        "homeTeam": "Leeds United FC",
-        "awayTeam": "Newcastle United FC",
-        "league": "Premier League",
+        "homeTeam": "AFC Ajax",
+        "awayTeam": "Willem II Tilburg",
+        "league": "Eredivisie",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -66,9 +22,9 @@
         ]
     },
     {
-        "homeTeam": "Moreirense FC",
-        "awayTeam": "CS Marítimo",
-        "league": "Primeira Liga",
+        "homeTeam": "Deportivo Alavés",
+        "awayTeam": "Valencia CF",
+        "league": "Primera Division",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -77,9 +33,9 @@
         ]
     },
     {
-        "homeTeam": "Sporting Clube de Braga",
-        "awayTeam": "GD Estoril Praia",
-        "league": "Primeira Liga",
+        "homeTeam": "Bristol City FC",
+        "awayTeam": "Lincoln City FC",
+        "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -88,9 +44,31 @@
         ]
     },
     {
-        "homeTeam": "EC Bahia",
-        "awayTeam": "Clube do Remo",
-        "league": "Campeonato Brasileiro Série A",
+        "homeTeam": "Middlesbrough FC",
+        "awayTeam": "Millwall FC",
+        "league": "Championship",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "Elche CF",
+        "awayTeam": "Real Madrid CF",
+        "league": "Primera Division",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "CA Platense",
+        "awayTeam": "Fluminense FC",
+        "league": "Copa Libertadores",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
