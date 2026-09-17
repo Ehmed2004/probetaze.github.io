@@ -1,51 +1,7 @@
 [
     {
-        "homeTeam": "Club Atlético de Madrid",
-        "awayTeam": "CA Osasuna",
-        "league": "Primera Division",
-        "scores": "2:1 / 3:1 / 1:1",
-        "predictions": [
-            "Ev 1.5 Üst",
-            "Qol-Qol Bəli",
-            "2.5 Üst"
-        ]
-    },
-    {
-        "homeTeam": "RC Deportivo La Coruña",
-        "awayTeam": "Sevilla FC",
-        "league": "Primera Division",
-        "scores": "2:1 / 3:1 / 1:1",
-        "predictions": [
-            "Ev 1.5 Üst",
-            "Qol-Qol Bəli",
-            "2.5 Üst"
-        ]
-    },
-    {
-        "homeTeam": "FC Barcelona",
-        "awayTeam": "Real Racing Club de Santander",
-        "league": "Primera Division",
-        "scores": "2:1 / 3:1 / 1:1",
-        "predictions": [
-            "Ev 1.5 Üst",
-            "Qol-Qol Bəli",
-            "2.5 Üst"
-        ]
-    },
-    {
-        "homeTeam": "Levante UD",
-        "awayTeam": "Athletic Club",
-        "league": "Primera Division",
-        "scores": "2:1 / 3:1 / 1:1",
-        "predictions": [
-            "Ev 1.5 Üst",
-            "Qol-Qol Bəli",
-            "2.5 Üst"
-        ]
-    },
-    {
-        "homeTeam": "LDU de Quito",
-        "awayTeam": "SE Palmeiras",
+        "homeTeam": "SC Corinthians Paulista",
+        "awayTeam": "Estudiantes de La Plata",
         "league": "Copa Libertadores",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -55,9 +11,20 @@
         ]
     },
     {
-        "homeTeam": "Botafogo FR",
-        "awayTeam": "Grêmio FBPA",
-        "league": "Campeonato Brasileiro Série A",
+        "homeTeam": "Real Betis Balompié",
+        "awayTeam": "Getafe CF",
+        "league": "Primera Division",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "Málaga CF",
+        "awayTeam": "Villarreal CF",
+        "league": "Primera Division",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
