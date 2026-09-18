@@ -1,7 +1,7 @@
 [
     {
-        "homeTeam": "SC Corinthians Paulista",
-        "awayTeam": "Estudiantes de La Plata",
+        "homeTeam": "CR Flamengo",
+        "awayTeam": "CAR Independiente del Valle",
         "league": "Copa Libertadores",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -11,8 +11,63 @@
         ]
     },
     {
-        "homeTeam": "Real Betis Balompié",
-        "awayTeam": "Getafe CF",
+        "homeTeam": "FC Groningen",
+        "awayTeam": "PEC Zwolle",
+        "league": "Eredivisie",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "FC Bayern München",
+        "awayTeam": "1. FC Union Berlin",
+        "league": "Bundesliga",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "AC Monza",
+        "awayTeam": "US Sassuolo Calcio",
+        "league": "Serie A",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "AS Monaco FC",
+        "awayTeam": "Racing Club de Lens",
+        "league": "Ligue 1",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "Brentford FC",
+        "awayTeam": "Chelsea FC",
+        "league": "Premier League",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "RCD Espanyol de Barcelona",
+        "awayTeam": "Elche CF",
         "league": "Primera Division",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -22,9 +77,9 @@
         ]
     },
     {
-        "homeTeam": "Málaga CF",
-        "awayTeam": "Villarreal CF",
-        "league": "Primera Division",
+        "homeTeam": "Bristol City FC",
+        "awayTeam": "Watford FC",
+        "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
