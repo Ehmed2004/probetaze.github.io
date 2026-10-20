@@ -1,8 +1,8 @@
 [
     {
-        "homeTeam": "AC Monza",
-        "awayTeam": "Cagliari Calcio",
-        "league": "Serie A",
+        "homeTeam": "Sabah FK",
+        "awayTeam": "Borussia Dortmund",
+        "league": "UEFA Champions League",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -11,9 +11,9 @@
         ]
     },
     {
-        "homeTeam": "Parma Calcio 1913",
-        "awayTeam": "Torino FC",
-        "league": "Serie A",
+        "homeTeam": "Fenerbahçe SK",
+        "awayTeam": "SK Slavia Praha",
+        "league": "UEFA Champions League",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -22,9 +22,9 @@
         ]
     },
     {
-        "homeTeam": "Tottenham Hotspur FC",
-        "awayTeam": "Coventry City FC",
-        "league": "Premier League",
+        "homeTeam": "Wolverhampton Wanderers FC",
+        "awayTeam": "Portsmouth FC",
+        "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -33,9 +33,9 @@
         ]
     },
     {
-        "homeTeam": "Getafe CF",
-        "awayTeam": "Rayo Vallecano de Madrid",
-        "league": "Primera Division",
+        "homeTeam": "Liverpool FC",
+        "awayTeam": "Villarreal CF",
+        "league": "UEFA Champions League",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -44,9 +44,9 @@
         ]
     },
     {
-        "homeTeam": "Sporting Clube de Braga",
-        "awayTeam": "Gil Vicente FC",
-        "league": "Primeira Liga",
+        "homeTeam": "FC Porto",
+        "awayTeam": "PSV",
+        "league": "UEFA Champions League",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -55,9 +55,53 @@
         ]
     },
     {
-        "homeTeam": "SC Corinthians Paulista",
-        "awayTeam": "EC Vitória",
-        "league": "Campeonato Brasileiro Série A",
+        "homeTeam": "Manchester City FC",
+        "awayTeam": "PAE AEK",
+        "league": "UEFA Champions League",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "Paris Saint-Germain FC",
+        "awayTeam": "FC Barcelona",
+        "league": "UEFA Champions League",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "AS Roma",
+        "awayTeam": "ŠK Slovan Bratislava",
+        "league": "UEFA Champions League",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "SSC Napoli",
+        "awayTeam": "FK Bodø/Glimt",
+        "league": "UEFA Champions League",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "VfB Stuttgart",
+        "awayTeam": "Club Atlético de Madrid",
+        "league": "UEFA Champions League",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
