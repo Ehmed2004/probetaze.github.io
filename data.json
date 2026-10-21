@@ -1,7 +1,7 @@
 [
     {
-        "homeTeam": "Sabah FK",
-        "awayTeam": "Borussia Dortmund",
+        "homeTeam": "Como 1907",
+        "awayTeam": "Manchester United FC",
         "league": "UEFA Champions League",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -11,8 +11,8 @@
         ]
     },
     {
-        "homeTeam": "Fenerbahçe SK",
-        "awayTeam": "SK Slavia Praha",
+        "homeTeam": "Lille OSC",
+        "awayTeam": "Galatasaray SK",
         "league": "UEFA Champions League",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -22,9 +22,9 @@
         ]
     },
     {
-        "homeTeam": "Wolverhampton Wanderers FC",
-        "awayTeam": "Portsmouth FC",
-        "league": "Championship",
+        "homeTeam": "Levante UD",
+        "awayTeam": "Athletic Club",
+        "league": "Primera Division",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -33,8 +33,8 @@
         ]
     },
     {
-        "homeTeam": "Liverpool FC",
-        "awayTeam": "Villarreal CF",
+        "homeTeam": "Aston Villa FC",
+        "awayTeam": "Viking FK",
         "league": "UEFA Champions League",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -44,8 +44,8 @@
         ]
     },
     {
-        "homeTeam": "FC Porto",
-        "awayTeam": "PSV",
+        "homeTeam": "Real Madrid CF",
+        "awayTeam": "RB Leipzig",
         "league": "UEFA Champions League",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -55,8 +55,8 @@
         ]
     },
     {
-        "homeTeam": "Manchester City FC",
-        "awayTeam": "PAE AEK",
+        "homeTeam": "Real Betis Balompié",
+        "awayTeam": "Feyenoord Rotterdam",
         "league": "UEFA Champions League",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -66,8 +66,8 @@
         ]
     },
     {
-        "homeTeam": "Paris Saint-Germain FC",
-        "awayTeam": "FC Barcelona",
+        "homeTeam": "FC Bayern München",
+        "awayTeam": "Arsenal FC",
         "league": "UEFA Champions League",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -77,8 +77,8 @@
         ]
     },
     {
-        "homeTeam": "AS Roma",
-        "awayTeam": "ŠK Slovan Bratislava",
+        "homeTeam": "Sporting Clube de Portugal",
+        "awayTeam": "LASK Linz",
         "league": "UEFA Champions League",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -88,8 +88,8 @@
         ]
     },
     {
-        "homeTeam": "SSC Napoli",
-        "awayTeam": "FK Bodø/Glimt",
+        "homeTeam": "FC Internazionale Milano",
+        "awayTeam": "FK Shakhtar Donetsk",
         "league": "UEFA Champions League",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -99,8 +99,8 @@
         ]
     },
     {
-        "homeTeam": "VfB Stuttgart",
-        "awayTeam": "Club Atlético de Madrid",
+        "homeTeam": "Club Brugge KV",
+        "awayTeam": "Racing Club de Lens",
         "league": "UEFA Champions League",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
