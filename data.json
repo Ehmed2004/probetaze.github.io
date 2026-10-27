@@ -1,8 +1,8 @@
 [
     {
-        "homeTeam": "CD Santa Clara",
-        "awayTeam": "Sport Lisboa e Benfica",
-        "league": "Primeira Liga",
+        "homeTeam": "US Sassuolo Calcio",
+        "awayTeam": "SS Lazio",
+        "league": "Serie A",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -11,9 +11,9 @@
         ]
     },
     {
-        "homeTeam": "Paris Saint-Germain FC",
-        "awayTeam": "Olympique Lyonnais",
-        "league": "Ligue 1",
+        "homeTeam": "AS Roma",
+        "awayTeam": "Cagliari Calcio",
+        "league": "Serie A",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -22,31 +22,9 @@
         ]
     },
     {
-        "homeTeam": "Sevilla FC",
-        "awayTeam": "CA Osasuna",
-        "league": "Primera Division",
-        "scores": "2:1 / 3:1 / 1:1",
-        "predictions": [
-            "Ev 1.5 Üst",
-            "Qol-Qol Bəli",
-            "2.5 Üst"
-        ]
-    },
-    {
-        "homeTeam": "Coritiba FBC",
-        "awayTeam": "Grêmio FBPA",
-        "league": "Campeonato Brasileiro Série A",
-        "scores": "2:1 / 3:1 / 1:1",
-        "predictions": [
-            "Ev 1.5 Üst",
-            "Qol-Qol Bəli",
-            "2.5 Üst"
-        ]
-    },
-    {
-        "homeTeam": "CR Flamengo",
-        "awayTeam": "CA Mineiro",
-        "league": "Campeonato Brasileiro Série A",
+        "homeTeam": "Torino FC",
+        "awayTeam": "Como 1907",
+        "league": "Serie A",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
