@@ -1,8 +1,8 @@
 [
     {
-        "homeTeam": "US Sassuolo Calcio",
-        "awayTeam": "ACF Fiorentina",
-        "league": "Serie A",
+        "homeTeam": "FK Shakhtar Donetsk",
+        "awayTeam": "Sporting Clube de Portugal",
+        "league": "UEFA Champions League",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -11,9 +11,9 @@
         ]
     },
     {
-        "homeTeam": "Atalanta BC",
-        "awayTeam": "Parma Calcio 1913",
-        "league": "Serie A",
+        "homeTeam": "Galatasaray SK",
+        "awayTeam": "VfB Stuttgart",
+        "league": "UEFA Champions League",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -22,9 +22,9 @@
         ]
     },
     {
-        "homeTeam": "FC Lorient",
-        "awayTeam": "Stade Brestois 29",
-        "league": "Ligue 1",
+        "homeTeam": "Preston North End FC",
+        "awayTeam": "Sheffield United FC",
+        "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -33,9 +33,9 @@
         ]
     },
     {
-        "homeTeam": "RC Deportivo La Coruña",
-        "awayTeam": "CA Osasuna",
-        "league": "Primera Division",
+        "homeTeam": "Charlton Athletic FC",
+        "awayTeam": "Bolton Wanderers FC",
+        "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -44,9 +44,9 @@
         ]
     },
     {
-        "homeTeam": "Newcastle United FC",
-        "awayTeam": "Everton FC",
-        "league": "Premier League",
+        "homeTeam": "Derby County FC",
+        "awayTeam": "Norwich City FC",
+        "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -55,9 +55,9 @@
         ]
     },
     {
-        "homeTeam": "Gil Vicente FC",
-        "awayTeam": "Vitória SC",
-        "league": "Primeira Liga",
+        "homeTeam": "Portsmouth FC",
+        "awayTeam": "Swansea City AFC",
+        "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -66,9 +66,9 @@
         ]
     },
     {
-        "homeTeam": "Sport Lisboa e Benfica",
-        "awayTeam": "FC Alverca",
-        "league": "Primeira Liga",
+        "homeTeam": "Watford FC",
+        "awayTeam": "Lincoln City FC",
+        "league": "Championship",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -77,8 +77,129 @@
         ]
     },
     {
-        "homeTeam": "RB Bragantino",
-        "awayTeam": "Santos FC",
+        "homeTeam": "Queens Park Rangers FC",
+        "awayTeam": "Burnley FC",
+        "league": "Championship",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "Blackburn Rovers FC",
+        "awayTeam": "Stoke City FC",
+        "league": "Championship",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "Manchester United FC",
+        "awayTeam": "AS Roma",
+        "league": "UEFA Champions League",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "West Bromwich Albion FC",
+        "awayTeam": "Southampton FC",
+        "league": "Championship",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "Feyenoord Rotterdam",
+        "awayTeam": "FC Internazionale Milano",
+        "league": "UEFA Champions League",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "LASK Linz",
+        "awayTeam": "ŠK Slovan Bratislava",
+        "league": "UEFA Champions League",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "Club Atlético de Madrid",
+        "awayTeam": "FC Bayern München",
+        "league": "UEFA Champions League",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "Birmingham City FC",
+        "awayTeam": "Millwall FC",
+        "league": "Championship",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "FK Bodø/Glimt",
+        "awayTeam": "Lille OSC",
+        "league": "UEFA Champions League",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "FC Barcelona",
+        "awayTeam": "Aston Villa FC",
+        "league": "UEFA Champions League",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "Villarreal CF",
+        "awayTeam": "Paris Saint-Germain FC",
+        "league": "UEFA Champions League",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "Chapecoense AF",
+        "awayTeam": "Mirassol FC",
         "league": "Campeonato Brasileiro Série A",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
