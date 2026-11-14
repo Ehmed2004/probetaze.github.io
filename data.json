@@ -1,1 +1,24 @@
-[]
+[
+    {
+        "homeTeam": "Mirassol FC",
+        "awayTeam": "CA Mineiro",
+        "league": "Campeonato Brasileiro Série A",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    },
+    {
+        "homeTeam": "Chapecoense AF",
+        "awayTeam": "CR Vasco da Gama",
+        "league": "Campeonato Brasileiro Série A",
+        "scores": "2:1 / 3:1 / 1:1",
+        "predictions": [
+            "Ev 1.5 Üst",
+            "Qol-Qol Bəli",
+            "2.5 Üst"
+        ]
+    }
+]
