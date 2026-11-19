@@ -1,7 +1,7 @@
 [
     {
-        "homeTeam": "Coritiba FBC",
-        "awayTeam": "Santos FC",
+        "homeTeam": "SC Corinthians Paulista",
+        "awayTeam": "Botafogo FR",
         "league": "Campeonato Brasileiro Série A",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -11,8 +11,8 @@
         ]
     },
     {
-        "homeTeam": "Clube do Remo",
-        "awayTeam": "Chapecoense AF",
+        "homeTeam": "Grêmio FBPA",
+        "awayTeam": "EC Bahia",
         "league": "Campeonato Brasileiro Série A",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -22,8 +22,8 @@
         ]
     },
     {
-        "homeTeam": "Cruzeiro EC",
-        "awayTeam": "SE Palmeiras",
+        "homeTeam": "CR Vasco da Gama",
+        "awayTeam": "SC Internacional",
         "league": "Campeonato Brasileiro Série A",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -33,8 +33,8 @@
         ]
     },
     {
-        "homeTeam": "CR Flamengo",
-        "awayTeam": "CA Paranaense",
+        "homeTeam": "EC Vitória",
+        "awayTeam": "RB Bragantino",
         "league": "Campeonato Brasileiro Série A",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
