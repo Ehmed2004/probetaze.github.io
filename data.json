@@ -1,7 +1,7 @@
 [
     {
-        "homeTeam": "SC Corinthians Paulista",
-        "awayTeam": "Botafogo FR",
+        "homeTeam": "São Paulo FC",
+        "awayTeam": "Fluminense FC",
         "league": "Campeonato Brasileiro Série A",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
@@ -11,9 +11,9 @@
         ]
     },
     {
-        "homeTeam": "Grêmio FBPA",
-        "awayTeam": "EC Bahia",
-        "league": "Campeonato Brasileiro Série A",
+        "homeTeam": "FC Bayern München",
+        "awayTeam": "1. FC Köln",
+        "league": "Bundesliga",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -22,9 +22,9 @@
         ]
     },
     {
-        "homeTeam": "CR Vasco da Gama",
-        "awayTeam": "SC Internacional",
-        "league": "Campeonato Brasileiro Série A",
+        "homeTeam": "ES Troyes AC",
+        "awayTeam": "Le Havre AC",
+        "league": "Ligue 1",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
@@ -33,9 +33,9 @@
         ]
     },
     {
-        "homeTeam": "EC Vitória",
-        "awayTeam": "RB Bragantino",
-        "league": "Campeonato Brasileiro Série A",
+        "homeTeam": "Athletic Club",
+        "awayTeam": "RCD Espanyol de Barcelona",
+        "league": "Primera Division",
         "scores": "2:1 / 3:1 / 1:1",
         "predictions": [
             "Ev 1.5 Üst",
